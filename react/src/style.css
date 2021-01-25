@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+}
+html, body, #leaflet {
+    height: 100%;
+}
+  
+.popup-form-home {
+    width: 550px;
+}
+  
+.popup-table-home-row {
+    background-color: white;
+    width: 500px;
+}
+
+.popup-table-home {
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+table, td, tr, th {
+    border: 1px solid black;
+    border-width:1px 1px 0 0;
+    width: 500px;
+    height: 30px;
+}
+
+.popup-table-home-title {
+    color: white;
+}

@@ -1,0 +1,4 @@
+bottle==0.12.17
+DateTime==4.3
+gunicorn==20.0.4
+kafka-python==2.0.2

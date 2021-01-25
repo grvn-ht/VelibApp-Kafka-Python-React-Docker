@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87e8c5a9.chunk.css",
+    "main.js": "/static/js/main.f8d3560b.chunk.js",
+    "main.js.map": "/static/js/main.f8d3560b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
+    "static/css/2.6e39a943.chunk.css": "/static/css/2.6e39a943.chunk.css",
+    "static/js/2.4a79669b.chunk.js": "/static/js/2.4a79669b.chunk.js",
+    "static/js/2.4a79669b.chunk.js.map": "/static/js/2.4a79669b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2af28463896fe0c0cc764f46edbf07cd.js": "/precache-manifest.2af28463896fe0c0cc764f46edbf07cd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.6e39a943.chunk.css.map": "/static/css/2.6e39a943.chunk.css.map",
+    "static/css/main.87e8c5a9.chunk.css.map": "/static/css/main.87e8c5a9.chunk.css.map",
+    "static/js/2.4a79669b.chunk.js.LICENSE.txt": "/static/js/2.4a79669b.chunk.js.LICENSE.txt",
+    "static/media/ezgif.com-crop.gif": "/static/media/ezgif.com-crop.0d28c576.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83c3e0c4.js",
+    "static/css/2.6e39a943.chunk.css",
+    "static/js/2.4a79669b.chunk.js",
+    "static/css/main.87e8c5a9.chunk.css",
+    "static/js/main.f8d3560b.chunk.js"
+  ]
+}

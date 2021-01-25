@@ -1,0 +1,18 @@
+server {
+    listen 80;
+    root /var/www/html;
+    index index.html;
+
+    location / {
+        try_files $uri $uri/ =404;
+    }
+    location /map {
+        try_files     location /map {
+        root /var/www/html1;
+        try_files /var/www/html1/index.html $uri/ =404;
+    }
+$uri $uri/ =404;
+    }
+
+}
+
